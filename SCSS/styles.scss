@@ -1,0 +1,21 @@
+$title-h1: #0000ff;
+$bg-form: #868686;
+$label-form: #ffff00;
+
+.form-control{
+    display: flex;
+    flex-direction: column;    
+    background-color: $bg-form;
+    width: 500px;
+    margin: 0 auto;
+    
+    h1.fom-title{
+        color: $title-h1;
+    }
+
+
+}
+
+
+
+

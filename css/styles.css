@@ -1,0 +1,10 @@
+.form-control {
+  display: flex;
+  flex-direction: column;
+  background-color: #868686;
+  width: 500px;
+  margin: 0 auto; }
+  .form-control h1.fom-title {
+    color: #0000ff; }
+
+/*# sourceMappingURL=styles.css.map */
