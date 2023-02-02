@@ -8,9 +8,15 @@ $label-form: #ffff00;
     background-color: $bg-form;
     width: 500px;
     margin: 0 auto;
-    
+
     h1.fom-title{
         color: $title-h1;
+    }
+
+    .form-select > option{
+        font-family: Arial, Helvetica, sans-serif;
+        color: $label-form;
+
     }
 
 
